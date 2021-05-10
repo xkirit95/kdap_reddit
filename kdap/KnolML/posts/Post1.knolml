@@ -1,1 +1,47 @@
-
+<?xml version='1.0' encoding='utf-8'?>
+<KnolML>
+	<KnowledgeData Type="QA/text">
+		<Instance Id= "1" InstanceType= "Question" >
+			<Title>The antidepressant reboxetine: A cheaddeskd moment in science'</Title>
+			<TimeStamp>
+				<CreationUTC>1291210941</CreationUTC> 
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserName>cavedave</OwnerUserName> 
+			</Contributors>
+			<SubmissionDetails>
+				<Subreddit Id = "t5_2r7mh" Name = "PhilosophyofScience" />
+				<Submission Name = "" Id = "eehly" Url = "http://www.scientificamerican.com/blog/post.cfm?id=the-antidepressant-reboxetine-a-hea-2010-11-30'" Permalink = "/r/PhilosophyofScience/comments/eehly/the_antidepressant_reboxetine_a_headdesk_moment/'" num_comments = "5" Domain = "scientificamerican.com'" Is_self = "False" Over_18 = "False" Hidden = "False" Thumbnail = ""/>
+			</SubmissionDetails>
+			<Body>
+				<Text>
+					'
+				</Text> 
+			</Body>
+			<Credit>
+				<Score>81</Score> 
+			</Credit>
+		</Instance>
+		<Instance Id= "2" InstanceType= "Question" >
+			<Title>Who accepted Einstein's theories of relativity before 1930? A sociological survey of scientists alive at the time. Seems to support Kuhn's conclusions."</Title>
+			<TimeStamp>
+				<CreationUTC>1293064086</CreationUTC> 
+			</TimeStamp>
+			<Contributors>
+				<OwnerUserName>sixbillionthsheep</OwnerUserName> 
+			</Contributors>
+			<SubmissionDetails>
+				<Subreddit Id = "t5_2r7mh" Name = "PhilosophyofScience" />
+				<Submission Name = "" Id = "eq5z5" Url = "https://www.reddit.com/r/PhilosophyofScience/comments/eq5z5/who_accepted_einsteins_theories_of_relativity/'" Permalink = "/r/PhilosophyofScience/comments/eq5z5/who_accepted_einsteins_theories_of_relativity/'" num_comments = "20" Domain = "self.PhilosophyofScience'" Is_self = "True" Over_18 = "False" Hidden = "False" Thumbnail = "self"/>
+			</SubmissionDetails>
+			<Body>
+				<Text>
+					*This information is taken from Frank Sulloway\'s book, [Born to Rebel: Birth Order, Family Dynamics, and Creative Lives](http://www.amazon.com/Born-Rebel-Family-Dynamics-Creative/dp/0679758763) and a related paper.*\n\n---\n\nThere were 308 scientists in his population for the relativity revolution, 222 worked in physics, 83 in mathematics and 45 in astronomy (some contributed to more than one eld). Their positions were detailed in Glick\'s [The Comparative Reception of Relativity](http://www.amazon.com/Comparative-Reception-Relativity-Studies-Philosophy/dp/9027724989/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1293063572&amp;sr=1-1).\n\nFor special relativity the sample size of 135. The best predictors for support were :\n\n* age (correlation =  -0.44)\n\n* social attitudes (correlation =  b+0.39 with being more liberal)\n\n* birth order (correlation = b+0.30 with being later-born rather than rst-born)\n\n* being Jewish (correlation b= +0.13). \n\nThe results are similar for support of special and general relativity by the larger\ngroup of 308 scientists (correlations  -0.47, b0.38, b0.19 and b0.22 respectively). Physicists and mathematicians were somewhat more likely than astronomers to support relativity but the differences\nare not signicant. The paper notes that Max Planck, a key advocate was a younger sibling in his family.\n\n---\n\nSeems to support [Thomas Kuhn](http://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)\'s position that outmoded paradigms in science aren\'t overturned by a sudden change of consensus among scientists. Rather, the scientists of the old paradigm hang on to their beliefs and the new paradigm only becomes dominant when they die out - a persuasive argument against the existence of any reliable scientific "method". Would love to see a similar survey done for cold fusion.\n\n'
+				</Text> 
+			</Body>
+			<Credit>
+				<Score>54</Score> 
+			</Credit>
+		</Instance>
+	</KnowledgeData>
+</KnolML>
