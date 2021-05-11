@@ -13,3 +13,4 @@ bx-python
 pyunpack
 mwviews
 patool
+zstd
